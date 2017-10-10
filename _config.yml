@@ -4,13 +4,13 @@ url: "http://yunho0130.github.io"    # the protocol and hostname of your site, e
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  겸손하게 프로그래밍 하자
+  description
 
 # Your information
 email: yunho0130@gmail.com
 author: 맹개발
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: 겸손하게 하루하루 배운 것들을 나누는 공간
 #twitter_username: twitter_username
 github_username:  yunho0130
 
