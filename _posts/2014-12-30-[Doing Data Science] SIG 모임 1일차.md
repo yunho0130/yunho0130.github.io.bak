@@ -6,8 +6,8 @@ categories: Data_science
 permalink: /archivers/Doing_Data_Science_1
 ---
 
-Doing Data Science 
-
+Doing Data Science  
+![book_image](/Users/yunho/dev/yunho0130.github.io.photos/doing_data_science.jpg)
 ### 4.1. 스팸이라는 확실한 신호는?   
   - 기존의 스팸 필터는 단어 사전 기반으로 운영을 했으나, 단어를 변형하는 경우가. 많아서 거르기 어려운 측면이 있음.
  
@@ -28,3 +28,4 @@ Doing Data Science
 
 ### 4.3. 라플라스 평활 
   - 수식에서 세타j의 직관적인 추정 대신에 정밀한 통계적 기법에 의한 추정
+
