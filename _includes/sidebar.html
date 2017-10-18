@@ -1,3 +1,26 @@
+<style>
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+
 <div class="col-box col-box-author">
   <!--
   <img class="avatar" src="{{ site.avatar }}" alt="{{ site.author }}">
@@ -6,9 +29,6 @@
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="yunho0130"><a class="LI-simple-link" href='https://kr.linkedin.com/in/yunho0130?trk=profile-badge'>Yunho Maeng</a></div>
   <p>{{ site.profile }}</p>
   <p class="contact">
-    {% if site.github_username %}
-    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
-    {% endif %}
     {% if site.twitter_username %}
     <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
     {% endif %}
@@ -18,11 +38,49 @@
     <a href="https://www.facebook.com/yunho0130">Facebook</a>
     <!-- 
     <a href="https://www.linkedin.com/in/yunho0130">Linkedin</a>
+    {% if site.github_username %}
+    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+    {% endif %}
      -->
+
+<!-- col-box-line -->
+<div class="gallery">
+  <a target="_blank" href="fjords.jpg">
+    <img src="fjords.jpg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="forest.jpg">
+    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="lights.jpg">
+    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="mountains.jpg">
+    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
+</html> 
   </p>
 </div>
 
+<!-- col-box-line -->
+
 <div class="col-box">
+
   <div class="col-box-title">Newest Posts</div>
   <ul class="post-list">
     {% for post in site.posts limit:5 %}
