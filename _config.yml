@@ -2,7 +2,7 @@
 title: 맹개발의 블로그 Maeng-dev's Blog
 url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
-#timezone: Asia/Chongqing
+timezone: Asia/Seoul
 description: >
   description
 
@@ -25,6 +25,8 @@ gems:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
+ - jekyll-sitemap
+
 
 # Build settings
 paginate: 5
