@@ -10,4 +10,5 @@ public/
 *.iml
 
 # add_by_yunho
+_local/
 _posts/media/
