@@ -6,6 +6,8 @@ categories: Data_science
 permalink: /archivers/Doing_Data_Science_1
 ---
 
+<iframe width="500" height="281" src="https://www.youtube.com/embed/QrGjN0FlU9Y" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 Doing Data Science  
 
 ![-w200](https://lh3.googleusercontent.com/-ElM2HNuppLU/We72KU1GLzI/AAAAAAABAMA/ROBa8Xka4UwuFuWRY5X7XsXgMCLqRQDuACHMYCw/I/15088321631027.jpg)
