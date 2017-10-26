@@ -26,6 +26,11 @@ public: true
 
 ### 우선순위: 추후반영
 * 신뢰할만한 Today Counter
+* 도메인 maengdev.com 매핑 검토
+* 메타블로그 리스트 검토 
+    - Wordpress?  
+    - Medium?
+    - Blogger?
 
 ## 업데이트&이슈반영 내역
 * 마크다운 에디터 비교 및 결정
@@ -36,6 +41,7 @@ public: true
         - 이미지 외부 호스팅 연동 편의성 (Google photo & imgur) 
         - New Line 처리 편의성 
         - 메타 블로그 연동 용이성 (Wordpress, Medium, etc..) 
+* 수학 수식 표현을 위한 MathJax 및 LaTex 지원 완료
 * 방명록 Guestbook 추가
 * RSS Feed 테스트 및 버튼 위치 메인 메뉴로 변경
 * Youtube 비디오 삽입 이슈
