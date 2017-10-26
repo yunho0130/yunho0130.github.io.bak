@@ -6,11 +6,7 @@ categories: Data_science
 permalink: /archivers/Doing_Data_Science_1
 ---
 
-<iframe src="https://www.youtube.com/embed/QrGjN0FlU9Y" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 Doing Data Science  
-
-![-w200](https://lh3.googleusercontent.com/-ElM2HNuppLU/We72KU1GLzI/AAAAAAABAMA/ROBa8Xka4UwuFuWRY5X7XsXgMCLqRQDuACHMYCw/I/15088321631027.jpg)
 
 ### 4.1. 스팸이라는 확실한 신호는?   
   - 기존의 스팸 필터는 단어 사전 기반으로 운영을 했으나, 단어를 변형하는 경우가. 많아서 거르기 어려운 측면이 있음.
