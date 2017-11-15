@@ -37,6 +37,7 @@ public: true
         - shortcut 지원 필수
 * About.md 파일 readme.md와 교체
 * 목차TOC 좌측 정렬
+* 비개발 카테고리명 추가
 
 ### 1.3 우선순위: 추후반영
 * 신뢰할만한 Today Counter

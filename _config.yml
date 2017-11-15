@@ -1,5 +1,5 @@
 # Site settings
-title: 맹지니어의 맹불허전 맹개발이야기 Maeng-dev's Blog
+title: 맹개발의 블로그 Maeng-dev's Blog
 url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
