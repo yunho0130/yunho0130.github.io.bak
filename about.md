@@ -66,6 +66,7 @@ public: true
 * Youtube 비디오 삽입 이슈
 * Social Share 및 print 버튼 
 * 덧글 추가
+    - 페이스북 덧글 플러그인 추가: 페이스북 로그인도 disqus에서 지원함 
 * Linkedin 프로필 Badge 추가
 * Google Analytics 코드 삽입 및 작동 확인
 * Adobe CC 에서 Color Profile 적용
