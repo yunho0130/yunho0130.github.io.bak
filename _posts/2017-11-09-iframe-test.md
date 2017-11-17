@@ -7,7 +7,7 @@ permalink: /archivers/2017-11-09-iframe
 ---
 <html > 
 <head > 
-<script src="js/jquery-1.7.1.js" type="text/javascript"></script> 
+<script src="https://yunho0130.github.io/js/jquery-3.2.1.js" type="text/javascript"></script> 
 <script type="text/javascript"> 
    function GetDivInnerHtml()         
    {          
