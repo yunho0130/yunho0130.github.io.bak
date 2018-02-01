@@ -1,15 +1,5 @@
----
-layout: post
-title:  "IBM Developer Connect 2017"
-date:   2017-11-09 18:01:13
-categories: Data_science
-permalink: /archivers/2017-11-09-IBM-Developer-Connect-2017
----
-
-2017-11-09-IBM-Developer-Connect-2017 
-
 # IBM Developer Connect 2017
-![](https://lh3.googleusercontent.com/-a7aX3ubQgPs/Wg050FX7C1I/AAAAAAABKIk/B9-SiVOToJA6c_UIX5b7_Bv53ZPvsORGACHMYCw/I/15102006901706.jpg)
+![](media/15102006901706.jpg)
  
 ## 서버리스, 클라우드 컴퓨팅 진화의 다음 단계
 Open Whisk에 대한 소개
@@ -25,7 +15,7 @@ Open Whisk에 대한 소개
     - 내장형 음성 인식, 자연어 처리, 음성 합성의 한계 (네트워크를 거치지 않음) 
     - Rule Base 기반이 아니라 머신러닝 기반의 자연어 인식이 필요했음. 여기에 Watson을 도입하기로 함. 
     - 아래와 같은 아키텍처로 로봇에 심기 시작했음. 
-     ![KakaoTalk_2017-11-09-13-17-01_Photo_74](https://lh3.googleusercontent.com/-pJ97xYvlS20/Wg0502bff1I/AAAAAAABKIo/534dvGqNi5AJftxgVP6qeA9jYGz-JclxACHMYCw/I/KakaoTalk_2017-11-09-13-17-01_Photo_74.jpeg)
+     ![KakaoTalk_2017-11-09-13-17-01_Photo_74](media/KakaoTalk_2017-11-09-13-17-01_Photo_74.jpeg)
     - Watson은 이해를 못하는 부분이 나오면 나중에 재학습을 시킬 수 있음. 
     - 음성대화는 휘발성이 강함. 2 Depth 이상의 대화가 어렵다. 
     - 아마존도 에코에서 새로운 세대의 제품을 내놓았을 때, 터치스크린을 달기 시작했음. 시각정보를 같이 줘야 깊은 대화가 가능함. 
@@ -37,10 +27,10 @@ Open Whisk에 대한 소개
     - 매장이 너무 시끄럽다
         - 추가 스피커
         - 넥밴드 블루투스 이어폰                     
-            ![KakaoTalk_2017-11-09-13-30-52_Photo_92](https://lh3.googleusercontent.com/-fKmdILE5XwE/Wg051LRr64I/AAAAAAABKIs/_GmWKqVwH1IohRUSFcHz7a9CtPi57UNigCHMYCw/I/KakaoTalk_2017-11-09-13-30-52_Photo_92-2.jpeg)
+            ![KakaoTalk_2017-11-09-13-30-52_Photo_92](media/KakaoTalk_2017-11-09-13-30-52_Photo_92-2.jpeg)
 
 ## 왓슨 컨버세이션 서비스를 이용한 챗봇 개발 방안 소개 - 고대민
-![KakaoTalk_2017-11-09-13-51-48_Photo_26](https://lh3.googleusercontent.com/-8XfjwJlUY5g/Wg0513QDMyI/AAAAAAABKIw/SOd2IJ94usIlKyXWjrDR51qCE2P9BvPcACHMYCw/I/KakaoTalk_2017-11-09-13-51-48_Photo_26.jpeg)
+![KakaoTalk_2017-11-09-13-51-48_Photo_26](media/KakaoTalk_2017-11-09-13-51-48_Photo_26.jpeg)
 
 * WCS (Watson Conversation Service) 
     - Intent: 질문의 의도
@@ -54,10 +44,10 @@ Open Whisk에 대한 소개
     - Controller = application = Orchestration
     - Legacy : 기존 기업의 시스템
 
-![KakaoTalk_2017-11-09-14-00-24_Photo_48](https://lh3.googleusercontent.com/-dR9WdY-cOp8/Wg052jXdQMI/AAAAAAABKI0/vXUdXzS1-GY5xc3BLyE92kODTwe8R9V0wCHMYCw/I/KakaoTalk_2017-11-09-14-00-24_Photo_48.jpeg)
-![KakaoTalk_2017-11-09-14-25-07_Photo_24](https://lh3.googleusercontent.com/-ZiRmXGzGF58/Wg053TnCflI/AAAAAAABKI4/K-TMnNNwSBYBKzLJs_AaAph3Kav7lfUPQCHMYCw/I/KakaoTalk_2017-11-09-14-25-07_Photo_24.jpeg)
-![KakaoTalk_2017-11-09-14-24-54_Photo_63](https://lh3.googleusercontent.com/-BUfpmBjWAYc/Wg054EhZOlI/AAAAAAABKI8/4jpZHXRTDRo81tMwCyg8JJ36kWbAfNKDQCHMYCw/I/KakaoTalk_2017-11-09-14-24-54_Photo_63.jpeg)
-![KakaoTalk_2017-11-09-14-24-53_Photo_56](https://lh3.googleusercontent.com/-2HcEvqFIX1Y/Wg0544WxdzI/AAAAAAABKJA/GBbMWn2uiP0pa4p5LhBXkpBJImdtXGLgwCHMYCw/I/KakaoTalk_2017-11-09-14-24-53_Photo_56.jpeg)
+![KakaoTalk_2017-11-09-14-00-24_Photo_48](media/KakaoTalk_2017-11-09-14-00-24_Photo_48.jpeg)
+![KakaoTalk_2017-11-09-14-25-07_Photo_24](media/KakaoTalk_2017-11-09-14-25-07_Photo_24.jpeg)
+![KakaoTalk_2017-11-09-14-24-54_Photo_63](media/KakaoTalk_2017-11-09-14-24-54_Photo_63.jpeg)
+![KakaoTalk_2017-11-09-14-24-53_Photo_56](media/KakaoTalk_2017-11-09-14-24-53_Photo_56.jpeg)
 Building Cognitive Applications with IBM Watson Services: Volume 4 Natural Language Classifier
 <https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html?Open>
 
