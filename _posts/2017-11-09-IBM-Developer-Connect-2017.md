@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "IBM Developer Connect 2017"
+date:   2017-11-09 18:01:13
+categories: Conference
+permalink: /archivers/IBM_Developer_Connect_2017
+---
+
 # IBM Developer Connect 2017
 ![](media/15102006901706.jpg)
  
